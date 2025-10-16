@@ -190,3 +190,4 @@ This case study is for portfolio and educational purposes. Client details and se
 **Created with ❤️ for the UX/UI Design community**
 
 *This case study demonstrates the complete design and development process for an internal dashboard, showcasing modern UX/UI design principles while respecting NDA constraints.*
+

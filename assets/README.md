@@ -26,3 +26,4 @@ Both images are NDA-friendly as they contain:
 - No proprietary data or branding
 - Generic placeholders and abstract representations
 - Focus on structure and process rather than specific content
+
